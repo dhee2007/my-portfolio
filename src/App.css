@@ -356,6 +356,10 @@ body {
 
   margin: 3px;
 }
+.tag:hover{
+  color:black;
+  border:1px solid black
+}
 
 .app {
   display: inline-block;
@@ -593,7 +597,9 @@ body {
 .light-theme .Project-grid {
   background-color: whitesmoke;
 }
-
+.light-theme .project-section h2{
+  color:black;
+}
 .light-theme .foot {
   background-color: beige;
 }

@@ -11,7 +11,7 @@ function About() {
           <img
             height="300"
             width="200"
-            src="/profile.jpeg"
+            src="/image.jpeg"
             alt="Dheeptha"
           />
 

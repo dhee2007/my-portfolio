@@ -9,7 +9,7 @@ function Contact() {
   }
 
   return (
-    <section className="contact-section" id="Contact">
+    <section className="contact-section" id="contact">
 
       <h2>Contact for more details</h2>
 

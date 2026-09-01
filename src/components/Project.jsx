@@ -30,7 +30,7 @@ function Projects() {
   ];
 
   return (
-    <section className="project-section" id="project">
+    <section className="project-section" id="projects">
 
       <h2>My Projects</h2>
 

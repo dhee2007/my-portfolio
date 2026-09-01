@@ -523,8 +523,6 @@ body {
 .light-theme .navbar {
   background-color: bisque;
   position: sticky;
-  top: 0;
-
   z-index: 10000;
 }
 
@@ -630,6 +628,8 @@ body {
 
 .dark-theme .navbar {
   background-color: #111827;
+  position: sticky;
+  z-index: 10000;
 }
 
 .dark-theme .links a {

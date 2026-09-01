@@ -653,6 +653,13 @@ body {
 .dark-theme .project-section h2 {
   color: aqua;
 }
+.dark-theme .tag {
+  color: black;
+}
+.dark-theme .tag {
+  color: black;
+  border: 1px solid black;
+}
 
 /* ================= MOBILE ================= */
 

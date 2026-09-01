@@ -522,6 +522,10 @@ body {
 
 .light-theme .navbar {
   background-color: bisque;
+  position: sticky;
+  top: 0;
+
+  z-index: 10000;
 }
 
 .light-theme .LOGO {
